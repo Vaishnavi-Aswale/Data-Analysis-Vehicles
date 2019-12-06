@@ -10,10 +10,14 @@ Data Analysis on various parameters of vehicles to predict the which attributes 
 <li>Model Evaluation and refinement</li>
 </ul>
 
-Dataset from:
-<a href='https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DA0101EN/module_5_auto.csv'>https://s3-api.us-geo.objectstorage.softlayer.csv</a>
+<h2>Data Collection </h2>
 
-Data Wrangling involes data cleaning and tranforming into proper format
+Dataset from:
+<a href='https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DA0101EN/module_5_auto.csv'>https://s3-api.us-geo.objectstorage.softlayer.csv </a>
+
+
+<h2>Data Wrangling</h2> 
+It invovles data cleaning and transforming into proper format
 
 Exploratory data analysis
 After finding the positive linear relations, concluded that <b>Engine size and highway mpg</b> are good predicator ofor price of car. 
