@@ -19,7 +19,7 @@ Dataset from:
 <h2>Data Wrangling</h2> 
 It invovles data cleaning and transforming into proper format
 
-Exploratory data analysis
+<h2>Exploratory data analysis</h2>
 After finding the positive linear relations, concluded that <b>Engine size and highway mpg</b> are good predicator ofor price of car. 
 Whereas <b>Peak rpm</b> does not seem like a good predictor of the price 
 
